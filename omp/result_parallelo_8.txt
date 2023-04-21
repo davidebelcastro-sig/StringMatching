@@ -1,0 +1,532 @@
+Input file: ../file/file_var_txt/file1.txt
+Pattern: lucia
+La stringa lucia occorre 0 volte
+Pattern: renzo
+La stringa renzo occorre 0 volte
+Pattern: Renzo
+La stringa Renzo occorre 809 volte
+Pattern: Lucia
+La stringa Lucia occorre 809 volte
+Pattern: buon
+La stringa buon occorre 2949 volte
+Pattern: ciao
+La stringa ciao occorre 0 volte
+Pattern: casa
+La stringa casa occorre 1803 volte
+Pattern: torna
+La stringa torna occorre 1348 volte
+Pattern: porta
+La stringa porta occorre 2748 volte
+Pattern: prova
+La stringa prova occorre 455 volte
+Pattern: ahaha
+La stringa ahaha occorre 0 volte
+Pattern: questa è una prova
+La stringa questa è una prova occorre 0 volte
+Pattern: file 
+La stringa file  occorre 0 volte
+Pattern: pattern
+La stringa pattern occorre 0 volte
+Pattern: omp
+La stringa omp occorre 8056 volte
+Pattern: progetto
+La stringa progetto occorre 0 volte
+Pattern: multicore
+La stringa multicore occorre 0 volte
+Pattern: buondì
+La stringa buondì occorre 0 volte
+Pattern: natale
+La stringa natale occorre 0 volte
+Pattern: ciaooo
+La stringa ciaooo occorre 0 volte
+Pattern: ahshhc
+La stringa ahshhc occorre 0 volte
+Pattern: etrynfgbdvfe
+La stringa etrynfgbdvfe occorre 0 volte
+Pattern: nrthegfsdv
+La stringa nrthegfsdv occorre 0 volte
+Pattern: fbdmtyrhtegrsdv
+La stringa fbdmtyrhtegrsdv occorre 0 volte
+Pattern: ynjrhe5grsd
+La stringa ynjrhe5grsd occorre 0 volte
+Pattern: jcjehc
+La stringa jcjehc occorre 0 volte
+Pattern: cartone
+La stringa cartone occorre 0 volte
+Pattern: cassa
+La stringa cassa occorre 0 volte
+Pattern: store
+La stringa store occorre 0 volte
+Pattern: lol
+La stringa lol occorre 0 volte
+Pattern: portano
+La stringa portano occorre 0 volte
+Pattern: cassetta
+La stringa cassetta occorre 0 volte
+Pattern: .
+La stringa . occorre 111724 volte
+Pattern: boh
+La stringa boh occorre 0 volte
+Input file: ../file/file_var_txt/file2.txt
+Pattern: lucia
+La stringa lucia occorre 0 volte
+Pattern: renzo
+La stringa renzo occorre 0 volte
+Pattern: Renzo
+La stringa Renzo occorre 707 volte
+Pattern: Lucia
+La stringa Lucia occorre 707 volte
+Pattern: buon
+La stringa buon occorre 2575 volte
+Pattern: ciao
+La stringa ciao occorre 0 volte
+Pattern: casa
+La stringa casa occorre 1548 volte
+Pattern: torna
+La stringa torna occorre 1161 volte
+Pattern: porta
+La stringa porta occorre 2374 volte
+Pattern: prova
+La stringa prova occorre 387 volte
+Pattern: ahaha
+La stringa ahaha occorre 0 volte
+Pattern: questa è una prova
+La stringa questa è una prova occorre 0 volte
+Pattern: file 
+La stringa file  occorre 0 volte
+Pattern: pattern
+La stringa pattern occorre 0 volte
+Pattern: omp
+La stringa omp occorre 6951 volte
+Pattern: progetto
+La stringa progetto occorre 0 volte
+Pattern: multicore
+La stringa multicore occorre 0 volte
+Pattern: buondì
+La stringa buondì occorre 0 volte
+Pattern: natale
+La stringa natale occorre 0 volte
+Pattern: ciaooo
+La stringa ciaooo occorre 0 volte
+Pattern: ahshhc
+La stringa ahshhc occorre 0 volte
+Pattern: etrynfgbdvfe
+La stringa etrynfgbdvfe occorre 0 volte
+Pattern: nrthegfsdv
+La stringa nrthegfsdv occorre 0 volte
+Pattern: fbdmtyrhtegrsdv
+La stringa fbdmtyrhtegrsdv occorre 0 volte
+Pattern: ynjrhe5grsd
+La stringa ynjrhe5grsd occorre 0 volte
+Pattern: jcjehc
+La stringa jcjehc occorre 0 volte
+Pattern: cartone
+La stringa cartone occorre 0 volte
+Pattern: cassa
+La stringa cassa occorre 0 volte
+Pattern: store
+La stringa store occorre 0 volte
+Pattern: lol
+La stringa lol occorre 0 volte
+Pattern: portano
+La stringa portano occorre 0 volte
+Pattern: cassetta
+La stringa cassetta occorre 0 volte
+Pattern: .
+La stringa . occorre 97002 volte
+Pattern: boh
+La stringa boh occorre 0 volte
+Input file: ../file/file_var_txt/file3.txt
+Pattern: lucia
+La stringa lucia occorre 0 volte
+Pattern: renzo
+La stringa renzo occorre 0 volte
+Pattern: Renzo
+La stringa Renzo occorre 634 volte
+Pattern: Lucia
+La stringa Lucia occorre 634 volte
+Pattern: buon
+La stringa buon occorre 2311 volte
+Pattern: ciao
+La stringa ciao occorre 0 volte
+Pattern: casa
+La stringa casa occorre 1393 volte
+Pattern: torna
+La stringa torna occorre 1043 volte
+Pattern: porta
+La stringa porta occorre 2129 volte
+Pattern: prova
+La stringa prova occorre 347 volte
+Pattern: ahaha
+La stringa ahaha occorre 0 volte
+Pattern: questa è una prova
+La stringa questa è una prova occorre 0 volte
+Pattern: file 
+La stringa file  occorre 0 volte
+Pattern: pattern
+La stringa pattern occorre 0 volte
+Pattern: omp
+La stringa omp occorre 6238 volte
+Pattern: progetto
+La stringa progetto occorre 0 volte
+Pattern: multicore
+La stringa multicore occorre 0 volte
+Pattern: buondì
+La stringa buondì occorre 0 volte
+Pattern: natale
+La stringa natale occorre 0 volte
+Pattern: ciaooo
+La stringa ciaooo occorre 0 volte
+Pattern: ahshhc
+La stringa ahshhc occorre 0 volte
+Pattern: etrynfgbdvfe
+La stringa etrynfgbdvfe occorre 0 volte
+Pattern: nrthegfsdv
+La stringa nrthegfsdv occorre 0 volte
+Pattern: fbdmtyrhtegrsdv
+La stringa fbdmtyrhtegrsdv occorre 0 volte
+Pattern: ynjrhe5grsd
+La stringa ynjrhe5grsd occorre 0 volte
+Pattern: jcjehc
+La stringa jcjehc occorre 0 volte
+Pattern: cartone
+La stringa cartone occorre 0 volte
+Pattern: cassa
+La stringa cassa occorre 0 volte
+Pattern: store
+La stringa store occorre 0 volte
+Pattern: lol
+La stringa lol occorre 0 volte
+Pattern: portano
+La stringa portano occorre 0 volte
+Pattern: cassetta
+La stringa cassetta occorre 0 volte
+Pattern: .
+La stringa . occorre 87029 volte
+Pattern: boh
+La stringa boh occorre 0 volte
+Input file: ../file/file_var_txt/file4.txt
+Pattern: lucia
+La stringa lucia occorre 0 volte
+Pattern: renzo
+La stringa renzo occorre 0 volte
+Pattern: Renzo
+La stringa Renzo occorre 537 volte
+Pattern: Lucia
+La stringa Lucia occorre 537 volte
+Pattern: buon
+La stringa buon occorre 1962 volte
+Pattern: ciao
+La stringa ciao occorre 0 volte
+Pattern: casa
+La stringa casa occorre 1189 volte
+Pattern: torna
+La stringa torna occorre 891 volte
+Pattern: porta
+La stringa porta occorre 1797 volte
+Pattern: prova
+La stringa prova occorre 296 volte
+Pattern: ahaha
+La stringa ahaha occorre 0 volte
+Pattern: questa è una prova
+La stringa questa è una prova occorre 0 volte
+Pattern: file 
+La stringa file  occorre 0 volte
+Pattern: pattern
+La stringa pattern occorre 0 volte
+Pattern: omp
+La stringa omp occorre 5300 volte
+Pattern: progetto
+La stringa progetto occorre 0 volte
+Pattern: multicore
+La stringa multicore occorre 0 volte
+Pattern: buondì
+La stringa buondì occorre 0 volte
+Pattern: natale
+La stringa natale occorre 0 volte
+Pattern: ciaooo
+La stringa ciaooo occorre 0 volte
+Pattern: ahshhc
+La stringa ahshhc occorre 0 volte
+Pattern: etrynfgbdvfe
+La stringa etrynfgbdvfe occorre 0 volte
+Pattern: nrthegfsdv
+La stringa nrthegfsdv occorre 0 volte
+Pattern: fbdmtyrhtegrsdv
+La stringa fbdmtyrhtegrsdv occorre 0 volte
+Pattern: ynjrhe5grsd
+La stringa ynjrhe5grsd occorre 0 volte
+Pattern: jcjehc
+La stringa jcjehc occorre 0 volte
+Pattern: cartone
+La stringa cartone occorre 0 volte
+Pattern: cassa
+La stringa cassa occorre 0 volte
+Pattern: store
+La stringa store occorre 0 volte
+Pattern: lol
+La stringa lol occorre 0 volte
+Pattern: portano
+La stringa portano occorre 0 volte
+Pattern: cassetta
+La stringa cassetta occorre 0 volte
+Pattern: .
+La stringa . occorre 73805 volte
+Pattern: boh
+La stringa boh occorre 0 volte
+Input file: ../file/file_var_txt/file5.txt
+Pattern: lucia
+La stringa lucia occorre 0 volte
+Pattern: renzo
+La stringa renzo occorre 0 volte
+Pattern: Renzo
+La stringa Renzo occorre 382 volte
+Pattern: Lucia
+La stringa Lucia occorre 382 volte
+Pattern: buon
+La stringa buon occorre 1401 volte
+Pattern: ciao
+La stringa ciao occorre 0 volte
+Pattern: casa
+La stringa casa occorre 849 volte
+Pattern: torna
+La stringa torna occorre 636 volte
+Pattern: porta
+La stringa porta occorre 1273 volte
+Pattern: prova
+La stringa prova occorre 213 volte
+Pattern: ahaha
+La stringa ahaha occorre 0 volte
+Pattern: questa è una prova
+La stringa questa è una prova occorre 0 volte
+Pattern: file 
+La stringa file  occorre 0 volte
+Pattern: pattern
+La stringa pattern occorre 0 volte
+Pattern: omp
+La stringa omp occorre 3778 volte
+Pattern: progetto
+La stringa progetto occorre 0 volte
+Pattern: multicore
+La stringa multicore occorre 0 volte
+Pattern: buondì
+La stringa buondì occorre 0 volte
+Pattern: natale
+La stringa natale occorre 0 volte
+Pattern: ciaooo
+La stringa ciaooo occorre 0 volte
+Pattern: ahshhc
+La stringa ahshhc occorre 0 volte
+Pattern: etrynfgbdvfe
+La stringa etrynfgbdvfe occorre 0 volte
+Pattern: nrthegfsdv
+La stringa nrthegfsdv occorre 0 volte
+Pattern: fbdmtyrhtegrsdv
+La stringa fbdmtyrhtegrsdv occorre 0 volte
+Pattern: ynjrhe5grsd
+La stringa ynjrhe5grsd occorre 0 volte
+Pattern: jcjehc
+La stringa jcjehc occorre 0 volte
+Pattern: cartone
+La stringa cartone occorre 0 volte
+Pattern: cassa
+La stringa cassa occorre 0 volte
+Pattern: store
+La stringa store occorre 0 volte
+Pattern: lol
+La stringa lol occorre 0 volte
+Pattern: portano
+La stringa portano occorre 0 volte
+Pattern: cassetta
+La stringa cassetta occorre 0 volte
+Pattern: .
+La stringa . occorre 52606 volte
+Pattern: boh
+La stringa boh occorre 0 volte
+Input file: ../file/file_var_txt/file6.txt
+Pattern: lucia
+La stringa lucia occorre 0 volte
+Pattern: renzo
+La stringa renzo occorre 0 volte
+Pattern: Renzo
+La stringa Renzo occorre 251 volte
+Pattern: Lucia
+La stringa Lucia occorre 251 volte
+Pattern: buon
+La stringa buon occorre 920 volte
+Pattern: ciao
+La stringa ciao occorre 0 volte
+Pattern: casa
+La stringa casa occorre 557 volte
+Pattern: torna
+La stringa torna occorre 418 volte
+Pattern: porta
+La stringa porta occorre 836 volte
+Pattern: prova
+La stringa prova occorre 140 volte
+Pattern: ahaha
+La stringa ahaha occorre 0 volte
+Pattern: questa è una prova
+La stringa questa è una prova occorre 0 volte
+Pattern: file 
+La stringa file  occorre 0 volte
+Pattern: pattern
+La stringa pattern occorre 0 volte
+Pattern: omp
+La stringa omp occorre 2480 volte
+Pattern: progetto
+La stringa progetto occorre 0 volte
+Pattern: multicore
+La stringa multicore occorre 0 volte
+Pattern: buondì
+La stringa buondì occorre 0 volte
+Pattern: natale
+La stringa natale occorre 0 volte
+Pattern: ciaooo
+La stringa ciaooo occorre 0 volte
+Pattern: ahshhc
+La stringa ahshhc occorre 0 volte
+Pattern: etrynfgbdvfe
+La stringa etrynfgbdvfe occorre 0 volte
+Pattern: nrthegfsdv
+La stringa nrthegfsdv occorre 0 volte
+Pattern: fbdmtyrhtegrsdv
+La stringa fbdmtyrhtegrsdv occorre 0 volte
+Pattern: ynjrhe5grsd
+La stringa ynjrhe5grsd occorre 0 volte
+Pattern: jcjehc
+La stringa jcjehc occorre 0 volte
+Pattern: cartone
+La stringa cartone occorre 0 volte
+Pattern: cassa
+La stringa cassa occorre 0 volte
+Pattern: store
+La stringa store occorre 0 volte
+Pattern: lol
+La stringa lol occorre 0 volte
+Pattern: portano
+La stringa portano occorre 0 volte
+Pattern: cassetta
+La stringa cassetta occorre 0 volte
+Pattern: .
+La stringa . occorre 34534 volte
+Pattern: boh
+La stringa boh occorre 0 volte
+Input file: ../file/file_var_pt/testo.txt
+Pattern: visi
+La stringa visi occorre 0 volte
+Pattern: ok
+La stringa ok occorre 0 volte
+Pattern: ciao
+La stringa ciao occorre 0 volte
+Pattern: prova
+La stringa prova occorre 140 volte
+Pattern: vebgr
+La stringa vebgr occorre 0 volte
+Pattern: retbr
+La stringa retbr occorre 0 volte
+Pattern: okkkk
+La stringa okkkk occorre 0 volte
+Pattern: ole
+La stringa ole occorre 4405 volte
+Pattern: oraora
+La stringa oraora occorre 0 volte
+Pattern: ciaa
+La stringa ciaa occorre 0 volte
+Pattern: sei
+La stringa sei occorre 279 volte
+Pattern: qui 
+La stringa qui  occorre 391 volte
+Pattern: ora
+La stringa ora occorre 2841 volte
+Pattern: a 
+La stringa a  occorre 112353 volte
+Pattern: cada
+La stringa cada occorre 0 volte
+Pattern: casa
+La stringa casa occorre 557 volte
+Pattern: ciaaa
+La stringa ciaaa occorre 0 volte
+Pattern: wdqert
+La stringa wdqert occorre 0 volte
+Pattern: efasdvfb
+La stringa efasdvfb occorre 0 volte
+Pattern: gvc
+La stringa gvc occorre 0 volte
+Input file: ../file/file_var_pt/testo.txt
+Pattern: già
+La stringa già occorre 947 volte
+Pattern: fui
+La stringa fui occorre 0 volte
+Pattern: ora
+La stringa ora occorre 2841 volte
+Pattern: tempo
+La stringa tempo occorre 1394 volte
+Pattern: giorno
+La stringa giorno occorre 1200 volte
+Pattern: renzo
+La stringa renzo occorre 0 volte
+Pattern: lucia
+La stringa lucia occorre 0 volte
+Pattern: mio
+La stringa mio occorre 896 volte
+Pattern: prova
+La stringa prova occorre 140 volte
+Pattern: ora
+La stringa ora occorre 2841 volte
+Pattern: now
+La stringa now occorre 0 volte
+Pattern: qui
+La stringa qui occorre 1590 volte
+Pattern: esame
+La stringa esame occorre 139 volte
+Pattern: multi
+La stringa multi occorre 0 volte
+Pattern: core
+La stringa core occorre 0 volte
+Input file: ../file/file_var_pt/testo.txt
+Pattern: perchè
+La stringa perchè occorre 0 volte
+Pattern: renzo
+La stringa renzo occorre 0 volte
+Pattern: sono
+La stringa sono occorre 251 volte
+Pattern: inverno
+La stringa inverno occorre 0 volte
+Pattern: natale
+La stringa natale occorre 0 volte
+Pattern: promessi
+La stringa promessi occorre 0 volte
+Pattern: sposi
+La stringa sposi occorre 0 volte
+Pattern: or f
+La stringa or f occorre 0 volte
+Pattern: dfg
+La stringa dfg occorre 0 volte
+Pattern: dfgh
+La stringa dfgh occorre 0 volte
+Input file: ../file/file_var_pt/testo.txt
+Pattern: oi
+La stringa oi occorre 5714 volte
+Pattern: poi
+La stringa poi occorre 3042 volte
+Pattern: io
+La stringa io occorre 28795 volte
+Pattern: natale
+La stringa natale occorre 0 volte
+Pattern: oraa
+La stringa oraa occorre 0 volte
+Input file: ../file/file_var_pt/testo.txt
+Pattern: ei
+La stringa ei occorre 3487 volte
+Pattern: buon
+La stringa buon occorre 920 volte
+Pattern: rtbgdf
+La stringa rtbgdf occorre 0 volte
+Pattern: efwr
+La stringa efwr occorre 0 volte
+Input file: ../file/file_var_pt/testo.txt
+Pattern: mattina
+La stringa mattina occorre 0 volte
+Pattern: a
+La stringa a occorre 380485 volte
